@@ -66,8 +66,8 @@ It is designed as a practical example for **SAP ABAP beginners** and can be exte
 
 ## 👤 Author
 **Prawin Kumar Mandal**  
-SAP ABAP Developer | SAP Global Certified – ABAP - Cloud.
--📌 [LinkedIn](https://linkedin.com/in/prawin89)  
--📌 [GitHub](https://github.com/prawin81)
+- SAP ABAP Developer | SAP Global Certified – ABAP - Cloud.
+- 📌 [LinkedIn](https://linkedin.com/in/prawin89)  
+- 📌 [GitHub](https://github.com/prawin81)
 
 ---
